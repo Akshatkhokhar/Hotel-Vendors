@@ -52,12 +52,7 @@ npm install
 
 ### 2. Environment Setup
 Create a `.env.local` file in the root directory (use `.env.example` as a template):
-```env
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-SUPABASE_SERVICE_ROLE_KEY=your_service_role_key
-NEXT_PUBLIC_APP_URL=http://localhost:3000
-```
+
 
 ### 3. Run Development Server
 ```bash
